@@ -1,0 +1,151 @@
+
+p, h2 {
+	margin: 0;
+	padding: 0;
+}
+.zendesk-main {
+	width: 100%;
+	height: auto;
+	&__content {
+		position: relative;
+		width: 320px;
+		height: 400px;
+		margin: 50px auto;
+		padding-top: 37px;
+    background-image: url('../img/zendeskApp/background.png');
+		@include image-2x('../img/zendeskApp/background-2x.png');
+		background-size: cover;
+		color: #ffffff;
+		h2 {
+			font-size: 24px;
+			font-weight: 700;
+			text-align: center;
+			margin-bottom: 31px;
+		}
+  }
+  &__content--background3 {
+    background-image: url('../img/zendeskApp/background3.png');
+    @include image-2x('../img/zendeskApp/background3-2x.png');
+    h2 {
+			font-size: 24px;
+			font-weight: 700;
+			text-align: center;
+			margin-bottom: 15px;
+    }
+    .zendesk-main__text {
+      margin-bottom: 0;
+    }
+    .button {
+      margin-bottom: 96px;
+    }
+    .zendesk-main__advice {
+      max-width: 230px;
+    }
+  }
+	&__content--background {
+		background-image: url('../img/zendeskApp/background-4.jpg');
+		background-size: cover;
+	}
+	&__text {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		width: 267px;
+		height: 153px;
+		margin: 0 auto;
+		margin-bottom: 59px;
+		text-align: center;
+	}
+	&__text--first {
+		width: 215px;
+	}
+	&__text--4th {
+		height: auto;
+		margin-bottom: 15px;
+	}
+	&__info {
+		font-size: 18px;
+		font-weight: 400;
+	}
+	&__info--margin {
+		margin-bottom: 30px;
+	}
+	&__advice {
+		margin: 0 auto;
+		width: 267px;
+		text-align: center;
+		font-size: 10px;
+		font-weight: 400;
+	}
+	img {
+		position: absolute;
+	}
+	.first-left {
+		top: 239px;
+		left: 13px;
+	}
+	.first-right {
+		top: 284px;
+		right: 29px;
+	}
+	.second-left {
+		top: 257px;
+		left: 16px;
+	}
+	.second-right {
+		top: 20px;
+		right: 17px;
+	}
+	.third-left {
+		top: 262px;
+		left: 27px;
+	}
+	.third-right {
+		top: 264px;
+		right: 27px;
+	}
+
+	&__macros-container {
+		width: 320px;
+		height: 430px;
+		border: 1px solid #979797;
+		margin: 70px auto;
+		padding-top: 27px;
+		padding-bottom: 23px;
+	}
+
+	&__macros {
+		display: flex;
+		align-items: center;
+		width: 295px;
+		margin: 0 auto;
+		margin-bottom: 12px;
+
+		div {
+
+			width: 201px;
+
+			h2 {
+				color: #000000;
+				font-size: 14px;
+				font-weight: 500;
+			}
+			p {
+				color: #000000;
+				font-size: 14px;
+				font-weight: 300;
+			}
+		}
+		a {
+				text-decoration: none;
+				color: #fff;
+			}
+	}
+	&__macros:nth-child(2) {
+		align-items: flex-start;
+		a {
+			height: 29px;
+			line-height: 29px;
+		}
+	}
+}

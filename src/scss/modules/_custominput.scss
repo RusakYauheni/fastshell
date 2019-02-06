@@ -1,0 +1,16 @@
+.custom-input {
+	width: 100%;
+	font-size: 1.3em;
+	font-weight: 400;
+	color: #black;
+	border-radius: 30px;
+	line-height: 3em;
+	background-color: #ececec;
+	padding-left: 9%;
+	border: none;
+	outline: none;
+	margin-bottom: 2%;
+	@include for-size(phone-only) {
+		font-size: 1em;
+	}
+}

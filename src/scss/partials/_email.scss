@@ -1,0 +1,45 @@
+html {
+	box-sizing: border-box;
+}
+p {
+	margin: 0;
+	padding: 0;
+}
+.email {
+	width: 100%;
+	height: auto;
+	background-image: url('../img/Email/background.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	padding-top: 7%;
+		&__logotype {
+			display: block;
+			text-decoration: none;
+			color: #fff;
+			font-size: 2.25em;
+			line-height: 1.25em;
+			font-weight: 700;
+			text-transform: uppercase;
+			letter-spacing: 1.08px;
+			text-align: center;
+		}
+		&__content {
+			width: 77%;
+			height: 700px;
+			display: flex;
+			justify-content: space-between;
+			align-items: flex-end;
+			margin: 0 auto;
+			margin-top: 5%;
+			background-image: linear-gradient(to top, #ffffff 0%, #d7f1ff 77%);
+			border-radius: 6.25em;
+		}
+		&__men {
+			width: 85%;
+		    margin: 0 auto;
+		    margin-top: -17%;
+		    display: block;
+		}
+
+}

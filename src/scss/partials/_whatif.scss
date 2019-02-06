@@ -1,0 +1,291 @@
+.what-if {
+	position: relative;
+	width: 100%;
+	height: auto;
+	background-image: linear-gradient(to right, #1258ee 0%, #049cfb 100%);
+	display: flex;
+	padding-top: 7.7777%;
+	padding-bottom: 7.7777%;
+	padding-left: 9.375%;
+	// text-align: right;
+	z-index: 99;
+	@include for-size(phone-only) {
+		flex-direction: column-reverse;
+		align-items: center;
+		text-align: center;
+		padding-left: 0;
+
+	}
+	img {
+		position: absolute;
+		width: 32.5%;
+		top: -10vw;
+		right: 9%;
+		@include for-size(phone-only) {
+			margin-bottom: 20px;
+			position: relative;
+			width: 80%;
+			top: 0;
+			right: 0;
+		}
+	}
+	&__text {
+		width: 43.5%;
+		@include for-size(phone-only) {
+			width: 80%;
+			margin: 0 auto;
+			margin-top: 40px;
+		}
+		h2 {
+			color: #ffffff;
+			font-size: 2.18em;
+			font-weight: 700;
+			line-height: 1.3em;
+			letter-spacing: 0.42px;
+			margin-top: 0;
+			margin-bottom: 30px;
+		}
+		p {
+			color: #ffffff;
+			font-weight: 400;
+			font-size: 1.25em;
+			line-height: 2em;
+			letter-spacing: 0.5px;
+		}
+		h5 {
+			color: #ffffff;
+			font-size: 1.25em;
+			line-height: 2em;
+			font-weight: 700;
+			letter-spacing: 0.5px;
+			margin-top: 35px;
+			margin-bottom: 0;
+		}
+	}
+	&__text--size {
+		width: 40%;
+		text-align: left;
+		margin-left: 35%;
+		@include for-size(phone-only) {
+			width: 80%;
+			margin-left: 0;
+			text-align: center;
+			margin-right: 0;
+
+		}
+	}
+	&__text--wide {
+		width: 81.25%;
+		@include for-size(phone-only) {
+			margin-bottom: 10%;
+		}
+		@include for-size(tablet-portrait-up) {
+			margin-bottom: 10%;
+		}
+		@include for-size(tablet-landscape-up) {
+			margin-bottom: 0;
+		}
+		h2 {
+			width: 56%;
+			margin: 0 auto;
+			margin-bottom: 2%;
+			@include for-size(phone-only) {
+				width: 100%;
+			}
+		}
+
+	}
+	&__blue-square {
+		width: 29.5%;
+		border-radius: 10px;
+		background-color: #0d3764;
+		padding: 17% 2.5% 9.5% 4%;
+		position: absolute;
+		top: -10%;
+		left: 14.25%;
+		min-height: 130px;
+		@include for-size(phone-only) {
+			position: relative;
+			width: 80%;
+			top: 0;
+			left: 0;
+		}
+		h2 {
+			color: #fff;
+			font-size: 2.1875em;
+			line-height: 1.3em;
+			font-weight: 700;
+			letter-spacing: 0.42px;
+			text-align: left;
+		}
+	}
+	&__diagram-container {
+		position: absolute;
+		left: 0;
+		right: 0;
+		bottom: -27%;
+		width: 81.25%;
+		margin: 0 auto;
+		display: flex;
+		justify-content: space-between;
+		z-index: 999;
+		@include for-size(phone-only) {
+			flex-direction: column;
+			position: relative;
+			margin-top: 5%;
+		}
+		@include for-size(tablet-portrait-up) {
+			position: relative;
+			flex-direction: column;
+			margin-top: 5%;
+		}
+		@include for-size(tablet-landscape-up) {
+			position: absolute;
+			flex-direction: row;
+			margin-top: 0;
+		}
+	}
+	&__diagram {
+		width: 47.5%;
+		padding: 5.5%;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: 50% 50%;
+		min-height: 180px;
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		justify-content: center;
+		@include for-size(phone-only) {
+			width: 100%;
+			margin: auto;
+		}
+		@include for-size(tablet-portrait-up) {
+			width: 90%;
+			margin: 0 auto;
+		}
+		@include for-size(tablet-landscape-up) {
+			width: 47.5%;
+		}
+		h4 {
+			color: #ffffff;
+			font-size: 1.3125em;
+			font-weight: 700;
+			line-height: 1.38em;
+			letter-spacing: 0.32px;
+			text-align: left;
+			margin-top: 0;
+		}
+	}
+	&__diagram:first-child {
+		@include for-size(phone-only) {
+			margin-top: 25px;
+			margin-bottom: 25px;
+		}
+		@include for-size(tablet-portrait-up) {
+			margin-bottom: 5%;
+		}
+		@include for-size(tablet-landscape-up) {
+			margin-bottom: 0;
+		}
+
+	}
+	&__diagram--left {
+		background-image: url('../img/Features/diagram-l.png');
+		@include image-2x('../img/Features/diagram-l-2x.png');
+	}
+	&__diagram--right {
+		background-image: url('../img/Features/diagram-r-2x.png');
+	}
+	&__diagram-text {
+		color: #ffffff;
+		font-size: 1em;
+		font-weight: 400;
+		line-height: 1.5em;
+		letter-spacing: 0.24px;
+
+	}
+	&__diagram-time {
+		color: #ffffff;
+		font-size: 1.375em;
+		font-weight: 400;
+		line-height: 1.27em;
+		letter-spacing: 0.34px;
+		@include for-size(phone-only) {
+
+		}
+	}
+	&__span-container {
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		width: 100%;
+		span {
+			margin-bottom: 5.2%;
+			text-align: left;
+		}
+	}
+	&__first-row, &__second-row {
+		display: flex;
+		justify-content: space-between;
+	}
+	& &__computers {
+		top: inherit;
+	    left: 6%;
+	    right: 6%;
+	    width: 88%;
+	    z-index: 4;
+	    bottom: -15vw;
+		@include for-size(phone-only) {
+			position: absolute;
+			top: 84%;
+		}
+	}
+
+}
+.what-if--reverse {
+	flex-direction: row-reverse;
+	justify-content: center;
+  align-items: flex-end;
+  img {
+    left: 9%;
+  }
+	@include for-size(phone-only) {
+		flex-direction: column-reverse;
+		justify-content: center;
+    align-items: center;
+    img {
+      left: 0;
+    }
+  }
+}
+.what-if--column {
+	flex-direction: column;
+	padding-left: 0;
+	position: relative;
+	z-index: 999;
+	padding-bottom: 15%;
+
+}
+.what-if--text-width {
+	width: 81.25%;
+	text-align: center;
+	margin: 0 auto;
+
+}
+.what-if--computers {
+	flex-direction: column;
+	align-items: center;
+	padding-left: 0;
+	text-align: center;
+	padding-bottom: 17%;
+	z-index: 99999;
+	@include for-size(phone-only) {
+		flex-direction: column;
+		align-items: center;
+		padding-left: 0;
+		text-align: center;
+		padding-bottom: 17%;
+		min-height: 450px;
+	}
+}

@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="779px" height="739px" viewBox="0 0 779 739" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Illustration MSG</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-13.1%" y="-16.5%" width="126.1%" height="144.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="34" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="38" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.797401066   0 0 0 0 0.887213343   0 0 0 0 0.935400723  0 0 0 0.533939085 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M12,0 L991,0 C997.627417,-1.21743675e-15 1003,5.372583 1003,12 L1003,589 L0,589 L0,12 C-8.11624501e-16,5.372583 5.372583,1.21743675e-15 12,0 Z" id="path-2"></path>
+        <linearGradient x1="153.861987%" y1="-64.5129145%" x2="32.5767971%" y2="83.1871811%" id="linearGradient-4">
+            <stop stop-color="#FF878E" offset="0%"></stop>
+            <stop stop-color="#FF4F55" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="0" y="15" width="157" height="25" rx="4"></rect>
+        <rect id="path-6" x="0" y="15" width="157" height="25" rx="4"></rect>
+        <rect id="path-7" x="0" y="15" width="74" height="25" rx="4"></rect>
+        <rect id="path-8" x="0" y="15" width="75" height="25" rx="4"></rect>
+        <rect id="path-9" x="68" y="41" width="140" height="23" rx="3"></rect>
+        <rect id="path-10" x="221" y="41" width="56" height="23" rx="3"></rect>
+        <rect id="path-11" x="299" y="41" width="42" height="23" rx="3"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-12">
+            <stop stop-color="#FFCD0E" offset="0%"></stop>
+            <stop stop-color="#FF9F06" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="2.69650829%" id="linearGradient-13">
+            <stop stop-color="#FFF9EA" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-14">
+            <stop stop-color="#FFC4CE" offset="0%"></stop>
+            <stop stop-color="#FFBEC9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-15">
+            <stop stop-color="#FD8ECF" offset="0%"></stop>
+            <stop stop-color="#FA55A1" offset="100%"></stop>
+        </linearGradient>
+        <path d="M7.52,0 L10.48,8.8817842e-16 C14.6331813,1.25251388e-16 18,3.36681868 18,7.52 L18,9.19512195 C14.9516461,10.7558699 11.9516461,11.5362439 9,11.5362439 C6.04835392,11.5362439 3.04835392,10.7558699 0,9.19512195 L8.8817842e-16,7.52 C3.79560399e-16,3.36681868 3.36681868,1.65110545e-15 7.52,8.8817842e-16 Z" id="path-16"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-18">
+            <stop stop-color="#FFF3F8" offset="0%"></stop>
+            <stop stop-color="#FFE3EF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-19">
+            <stop stop-color="#FDD5A9" offset="0%"></stop>
+            <stop stop-color="#FBAA70" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Features" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-661.000000, -6713.000000)">
+        <g id="Group-34" transform="translate(235.000000, 6242.000000)">
+            <g id="content" transform="translate(0.000000, 512.000000)">
+                <g id="Illustration-MSG" filter="url(#filter-1)" transform="translate(501.000000, 0.000000)">
+                    <g id="Group-5">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Rectangle-4-Copy" fill="#F6F9FB" xlink:href="#path-2"></use>
+                        <rect id="Rectangle-8" fill="#3C4763" mask="url(#mask-3)" x="0" y="-3" width="65" height="589"></rect>
+                        <rect id="Rectangle-9" fill="#FFFFFF" mask="url(#mask-3)" x="65" y="-3" width="183" height="592"></rect>
+                        <rect id="Rectangle-9-Copy" fill="#4B5877" mask="url(#mask-3)" x="65" y="-3" width="183" height="56"></rect>
+                        <rect id="Rectangle-5" fill="url(#linearGradient-4)" mask="url(#mask-3)" x="79" y="256" width="156" height="152" rx="4"></rect>
+                        <text id="Jatana" mask="url(#mask-3)" font-family=".AppleSystemUIFont" font-size="8" font-weight="normal" line-spacing="10" fill="#B8C5CB">
+                            <tspan x="98" y="17">Jatana</tspan>
+                        </text>
+                        <text id="Ticket-4023" mask="url(#mask-3)" font-family=".AppleSystemUIFont" font-size="8" font-weight="normal" line-spacing="10" fill="#FFFFFF">
+                            <tspan x="142" y="17">Ticket 4023</tspan>
+                        </text>
+                        <circle id="Oval-3" fill="#FFFFFF" mask="url(#mask-3)" cx="136" cy="14" r="1"></circle>
+                        <path d="M89.71875,11.7664671 L89.71875,10.3832335 L84.5,13.8248503 L79.28125,10.3832335 L79.28125,11.7664671 L84.5,15.1751497 L89.71875,11.7664671 Z M89.71875,9 C90.0729184,9 90.3749987,9.13722418 90.625,9.41167665 C90.8750013,9.68612912 91,10.0099782 91,10.3832335 L91,18.6167665 C91,18.9900218 90.8750013,19.3138709 90.625,19.5883234 C90.3749987,19.8627758 90.0729184,20 89.71875,20 L79.28125,20 C78.9270816,20 78.6250013,19.8627758 78.375,19.5883234 C78.1249987,19.3138709 78,18.9900218 78,18.6167665 L78,10.3832335 C78,10.0099782 78.1249987,9.68612912 78.375,9.41167665 C78.6250013,9.13722418 78.9270816,9 79.28125,9 L89.71875,9 Z" id="email---material" fill="#959EB5" mask="url(#mask-3)"></path>
+                        <g id="Group-30" mask="url(#mask-3)">
+                            <g transform="translate(-237.000000, 35.000000)">
+                                <g id="Group-27" transform="translate(400.000000, 6.000000)"></g>
+                                <g id="Group-9" transform="translate(394.000000, 0.000000)">
+                                    <path d="M0,0 L73,0 C76.3137085,-6.08718376e-16 79,2.6862915 79,6 L79,18 L0,18 L0,0 Z" id="Rectangle-20-Copy" fill="#FFFFFF"></path>
+                                    <text id="Jatana" font-family="Montserrat-Regular, Montserrat" font-size="8" font-weight="normal" fill="#2D354B">
+                                        <tspan x="26" y="12">Jatana</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group-9-Copy" transform="translate(197.500000, 408.500000) scale(-1, 1) translate(-197.500000, -408.500000) ">
+                                    <path d="M0,0 L73,0 C76.3137085,-6.08718376e-16 79,2.6862915 79,6 L79,18 L0,18 L0,0 Z" id="Rectangle-20-Copy" fill="#DAE1E9"></path>
+                                    <text id="NEW" transform="translate(40.000000, 14.000000) scale(-1, 1) translate(-40.000000, -14.000000) " font-family="Montserrat-Regular, Montserrat" font-size="8" font-weight="normal" fill="#2D354B">
+                                        <tspan x="29.628" y="12">NEW</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <polygon id="close---material" fill="#E0E7F8" mask="url(#mask-3)" points="233.492 13.354 232.1 14.746 233.492 16.138 233.138 16.492 231.746 15.1 230.354 16.492 230 16.138 231.392 14.746 230 13.354 230.354 13 231.746 14.392 233.138 13"></polygon>
+                        <g id="Group-6" mask="url(#mask-3)" fill="#E8E8E8" stroke="#EDEDED" stroke-width="3">
+                            <g transform="translate(21.000000, 145.000000)" id="Oval-2">
+                                <circle cx="12.5" cy="12.5" r="12.5"></circle>
+                            </g>
+                        </g>
+                        <g id="Group-25" mask="url(#mask-3)">
+                            <g transform="translate(79.000000, 68.000000)">
+                                <g id="Rectangle-15">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                                    <rect stroke="#D3D6DD" stroke-width="0.5" x="0.25" y="15.25" width="156.5" height="24.5" rx="4"></rect>
+                                </g>
+                                <text id="Take-It" font-family="Montserrat-Regular, Montserrat" font-size="7" font-weight="normal" line-spacing="10">
+                                    <tspan x="132.8135" y="7" fill="#42B2F5">Take It</tspan>
+                                </text>
+                                <text id="Assigne*" font-family="Montserrat-Regular, Montserrat" font-size="7" font-weight="normal" line-spacing="10">
+                                    <tspan x="0.3905" y="7" fill="#2D354B">Assigne*</tspan>
+                                </text>
+                                <text id="Agent-007" font-family="Montserrat-Light, Montserrat" font-size="8" font-weight="300" line-spacing="10">
+                                    <tspan x="10" y="31" fill="#2D354B">Agent 007</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-25-Copy" mask="url(#mask-3)">
+                            <g transform="translate(79.000000, 114.000000)">
+                                <g id="Rectangle-15">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                                    <rect stroke="#D3D6DD" stroke-width="0.5" x="0.25" y="15.25" width="156.5" height="24.5" rx="4"></rect>
+                                </g>
+                                <text id="CCs" font-family="Montserrat-Regular, Montserrat" font-size="7" font-weight="normal" line-spacing="10">
+                                    <tspan x="1" y="7" fill="#2D354B">CCs</tspan>
+                                </text>
+                                <text id="Shipping" font-family="Montserrat-Light, Montserrat" font-size="8" font-weight="300" line-spacing="10">
+                                    <tspan x="10" y="31" fill="#2D354B">Shipping</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group-25-Copy-4" mask="url(#mask-3)">
+                            <g transform="translate(81.000000, 241.000000)">
+                                <text id="Tags" font-family="Montserrat-Regular, Montserrat" font-size="7" font-weight="normal" line-spacing="10">
+                                    <tspan x="0" y="7" fill="#2D354B">Tags</tspan>
+                                </text>
+                                <g id="Group-8" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 26.000000)">
+                                    <rect id="Rectangle-15" fill="#FFFFFF" x="0" y="0" width="135" height="25" rx="4"></rect>
+                                    <text id="New-Ticket" font-family="Montserrat-Light, Montserrat" font-size="8" font-weight="300" line-spacing="10" fill="#2D354B">
+                                        <tspan x="10" y="16">New Ticket</tspan>
+                                    </text>
+                                    <rect id="Rectangle-15-Copy" fill="#FFFFFF" x="0" y="35" width="135" height="25" rx="4"></rect>
+                                    <text id="Product" font-family="Montserrat-Light, Montserrat" font-size="8" font-weight="300" line-spacing="10" fill="#2D354B">
+                                        <tspan x="10" y="51">Product</tspan>
+                                    </text>
+                                    <rect id="Rectangle-15-Copy-2" fill="#FFFFFF" x="0" y="70" width="135" height="25" rx="4"></rect>
+                                    <text id="Recruitment" font-family="Montserrat-Light, Montserrat" font-size="8" font-weight="300" line-spacing="10" fill="#2D354B">
+                                        <tspan x="10" y="86">Recruitment</tspan>
+                                    </text>
+                                    <rect id="Rectangle-15-Copy-3" fill="#FFFFFF" x="0" y="105" width="135" height="25" rx="4"></rect>
+                                    <text id="Top-Customer" font-family="Montserrat-Light, Montserrat" font-size="8" font-weight="300" line-spacing="10" fill="#2D354B">
+                                        <tspan x="10" y="121">Top Customer</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-25-Copy-3" mask="url(#mask-3)">
+                            <g transform="translate(79.000000, 186.000000)">
+                                <g id="Group-44" transform="translate(82.000000, 0.000000)">
+                                    <text id="Priority" font-family="Montserrat-Regular, Montserrat" font-size="7" font-weight="normal" line-spacing="10" fill="#2D354B">
+                                        <tspan x="1" y="7">Priority</tspan>
+                                    </text>
+                                    <g id="Rectangle-15">
+                                        <use fill-opacity="0.850000024" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                        <rect stroke="#D3D6DD" stroke-width="0.5" x="0.25" y="15.25" width="73.5" height="24.5" rx="4"></rect>
+                                    </g>
+                                    <text id="High" font-family="Montserrat-Light, Montserrat" font-size="8" font-weight="300" line-spacing="10" fill="#2D354B">
+                                        <tspan x="10" y="31">High</tspan>
+                                    </text>
+                                </g>
+                                <g id="Group-45">
+                                    <g id="Rectangle-15">
+                                        <use fill-opacity="0.850000024" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                                        <rect stroke="#D3D6DD" stroke-width="0.5" x="0.25" y="15.25" width="74.5" height="24.5" rx="4"></rect>
+                                    </g>
+                                    <text id="Type" font-family="Montserrat-Regular, Montserrat" font-size="7" font-weight="normal" line-spacing="10" fill="#2D354B">
+                                        <tspan x="1" y="7">Type</tspan>
+                                    </text>
+                                    <text id="Task" font-family="Montserrat-Light, Montserrat" font-size="8" font-weight="300" line-spacing="10" fill="#2D354B">
+                                        <tspan x="10" y="31">Task</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="Group-6-Copy-2" mask="url(#mask-3)" fill="#E8E8E8" stroke="#EDEDED" stroke-width="3">
+                            <g transform="translate(21.000000, 210.000000)" id="Oval-2">
+                                <circle cx="12.5" cy="12.5" r="12.5"></circle>
+                            </g>
+                        </g>
+                        <g id="Group-6-Copy-3" mask="url(#mask-3)" fill="#E8E8E8" stroke="#EDEDED" stroke-width="3">
+                            <g transform="translate(21.000000, 275.000000)" id="Oval-2">
+                                <circle cx="12.5" cy="12.5" r="12.5"></circle>
+                            </g>
+                        </g>
+                        <g id="Group-7" mask="url(#mask-3)">
+                            <g transform="translate(25.000000, 32.000000)">
+                                <polygon id="Path-5" fill="#77A301" points="4.0285627 0 10 1.78991375 6.08624815 13 0 11.3018515"></polygon>
+                                <polygon id="Path-6" fill="#ECECEC" points="10 7.75366174 11.5751843 13 17 11.3394333 15.4609558 6"></polygon>
+                            </g>
+                        </g>
+                        <g id="Group-6-Copy" mask="url(#mask-3)">
+                            <g transform="translate(21.000000, 80.000000)">
+                                <circle id="Oval-2" stroke="#EDEDED" stroke-width="3" fill="#E8E8E8" cx="12.5" cy="12.5" r="12.5"></circle>
+                                <g id="settings-cog" stroke="none" stroke-width="1" fill="none" transform="translate(4.000000, 199.000000)">
+                                    <path d="M15.5325929,6.71487823 L15.226045,5.97322513 C16.2758726,3.55182683 16.2062579,3.47986936 16.0023863,3.26982699 L14.6612455,1.93270295 L14.5281524,1.81826197 L14.3727889,1.81826197 C14.2908488,1.81826197 14.0462452,1.81826197 12.0075821,2.76186021 L11.257267,2.45313948 C10.287528,2.24064326e-11 10.1880784,2.24064326e-11 9.90411816,2.24064326e-11 L8.01219609,2.24064326e-11 C7.72855325,2.24064326e-11 7.61831236,-0.000323889531 6.71892862,2.4618845 L5.97184026,2.77141495 C4.59414646,2.17777938 3.78617169,1.87726385 3.56812324,1.87726385 L3.38927273,1.88293192 L1.94672513,3.32623775 C1.7278303,3.53628013 1.65144458,3.61034287 2.76147094,5.99427795 L2.45603383,6.73333993 C0,7.70225553 0,7.79623748 0,8.09270439 L0,9.98573087 C0,10.2826836 0,10.3873539 2.46428603,11.2881447 L2.76967024,12.0259112 C1.72000129,14.4460139 1.79051526,14.5186731 1.99443976,14.7267182 L3.33558055,16.0654617 L3.46899107,16.1824938 L3.62509514,16.1824938 C3.70576566,16.1824938 3.94735404,16.1824938 5.98887364,15.2369522 L6.73786636,15.5477782 C7.70776406,18.0005938 7.80737232,18 8.09196733,18 L9.9842068,18 C10.2735627,18 10.3761862,18 11.2782677,15.5390332 L12.0291648,15.2291788 C13.4052716,15.8229764 14.211395,16.1244636 14.4280681,16.1244636 L14.6081352,16.1192813 L16.0617387,14.6671225 C16.2685197,14.4541651 16.340938,14.3805342 15.2371008,12.0064778 L15.540422,11.266822 C18,10.2969347 18,10.1951255 18,9.90535227 L18,8.01443108 C17.9997355,7.71650667 17.9997355,7.61248414 15.5325929,6.71487823 Z M8.99955036,12.1490972 C7.26457874,12.1490972 5.851866,10.7354812 5.851866,8.99851551 C5.851866,7.26284537 7.26463163,5.85057895 8.99955036,5.85057895 C10.7335698,5.85057895 12.1433202,7.26316926 12.1433202,8.99851551 C12.1430028,10.7354812 10.7332524,12.1490972 8.99955036,12.1490972 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <path d="M315,59 L674,59 C676.209139,59 678,60.790861 678,63 L678,491 C678,493.209139 676.209139,495 674,495 L319,495 C316.790861,495 315,493.209139 315,491 L315,59 Z" id="Rectangle-10" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                        <g id="Group-22" mask="url(#mask-3)">
+                            <g transform="translate(315.000000, 67.000000)">
+                                <path d="M0.123104504,76.2379559 L363.244502,76.2379559" id="Path-2" stroke="#F6F9FB" stroke-width="3"></path>
+                                <text id="I’ve-bought-a-new-su" stroke="none" font-family="Montserrat-Light, Montserrat" font-size="12" font-weight="300" line-spacing="18">
+                                    <tspan x="26" y="12" fill="#5A5A5C">I’ve bought a new subscription but</tspan>
+                                    <tspan x="26" y="30" fill="#5A5A5C">the service is not working !!</tspan>
+                                </text>
+                                <g id="Rectangle-24" stroke="none">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                                    <rect stroke="#EBF4FD" stroke-width="1" x="68.5" y="41.5" width="139" height="22" rx="3"></rect>
+                                </g>
+                                <g id="Rectangle-24-Copy" stroke="none">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-10"></use>
+                                    <rect stroke="#EBF4FD" stroke-width="1" x="221.5" y="41.5" width="55" height="22" rx="3"></rect>
+                                </g>
+                                <g id="Rectangle-24-Copy-2" stroke="none">
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                                    <rect stroke="#EBF4FD" stroke-width="1" x="299.5" y="41.5" width="41" height="22" rx="3"></rect>
+                                </g>
+                                <text id="from-:" stroke="none" font-family=".AppleSystemUIFont" font-size="13" font-weight="normal" line-spacing="18">
+                                    <tspan x="26" y="57" fill="#B8C5CB">from :</tspan>
+                                </text>
+                                <text id="-" stroke="none" font-family=".AppleSystemUIFont" font-size="13" font-weight="normal" line-spacing="18">
+                                    <tspan x="212" y="56" fill="#B8C5CB">-</tspan>
+                                </text>
+                                <text id="at" stroke="none" font-family=".AppleSystemUIFont" font-size="13" font-weight="normal" line-spacing="18">
+                                    <tspan x="282" y="56" fill="#B8C5CB">at</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <path d="M315.123105,294.237956 L678.244502,294.237956" id="Path-2-Copy" stroke="#F6F9FB" stroke-width="3" mask="url(#mask-3)"></path>
+                        <g id="Group-24" mask="url(#mask-3)">
+                            <g transform="translate(257.000000, 145.000000)">
+                                <rect id="Rectangle-11" fill="#FCF3DA" x="6" y="1" width="35" height="31" rx="9"></rect>
+                                <g id="cewek" stroke-width="1" fill="none">
+                                    <path d="M15.7995282,22.8422507 L15.6854522,24.6896581 C16.7556994,26.2869641 18.2890617,27.5301712 20.0861861,28.2576496 L19.1157012,19.0495299 L18.8971953,19.1073647 C17.1563413,19.5661342 15.9086717,21.070461 15.7995282,22.8422507 Z" id="Shape" fill="url(#linearGradient-12)" fill-rule="nonzero"></path>
+                                    <path d="M31.7584273,24.7470798 L31.6409961,22.8422507 C31.5318526,21.070461 30.284183,19.5661342 28.543329,19.1073647 L28.3248231,19.0495299 L27.3526606,28.275 C29.1462997,27.5593338 30.6809426,26.3304675 31.7584273,24.7470798 Z" id="Shape" fill="url(#linearGradient-12)" fill-rule="nonzero"></path>
+                                    <path d="M18.8204456,27.6359259 C21.6517441,29.2879431 25.1422208,29.4061122 28.0819921,27.9494729 L29.0675754,19.0495299 L17.8696723,19.0495299 L18.8204456,27.6359259 Z" id="Shape" fill="url(#linearGradient-13)" fill-rule="nonzero"></path>
+                                    <path d="M24.9155439,19.4626353 L24.9155439,16.1164815 L21.5184273,16.1164815 L21.5184273,19.4626353 C20.6846658,19.6844729 20.1344168,20.0645299 20.1344168,20.4953989 C20.1344168,21.1799145 21.5146527,21.7347151 23.2169856,21.7347151 C24.9193185,21.7347151 26.2995544,21.1799145 26.2995544,20.4953989 C26.2995544,20.0632906 25.7493054,19.6832336 24.9155439,19.4626353 Z" id="Shape" fill="#F59DAB" fill-rule="nonzero"></path>
+                                    <path d="M20.1553866,7.70978632 C20.1553866,7.70978632 18.645557,8.20551282 18.058401,9.44482906 C17.4712451,10.6841453 17.6419397,12.0060826 17.2418349,13.0181909 C16.84173,14.0302991 15.6258978,15.6000997 16.1291743,16.3436895 C16.6324509,17.0872792 17.7228834,17.376453 17.6390039,17.9548006 C17.5551245,18.5331481 17.0937877,18.9875641 17.4293054,19.359359 C17.7648231,19.7311538 18.5197379,19.2354274 18.9810747,19.7724644 C19.4424115,20.3095014 20.3889908,19.7675071 20.7844823,19.7724644 C22.3991612,19.7931197 22.3572215,18.0167664 22.0636435,17.7689031 C21.7700655,17.5210399 19.0649541,9.19696581 20.1553866,7.70978632 Z" id="Shape" fill="#4B133E" fill-rule="nonzero"></path>
+                                    <ellipse id="Oval" fill="#FDB2BF" fill-rule="nonzero" transform="translate(18.431721, 13.018022) rotate(-45.000000) translate(-18.431721, -13.018022) " cx="18.4317213" cy="13.0180222" rx="1.06946265" ry="1.34259259"></ellipse>
+                                    <ellipse id="Oval" fill="#FFFFFF" fill-rule="nonzero" transform="translate(27.490492, 13.018226) rotate(-45.000000) translate(-27.490492, -13.018226) " cx="27.4904921" cy="13.0182261" rx="1.36304063" ry="1.0534188"></ellipse>
+                                    <path d="M22.9741547,19.0495299 C20.9231687,19.049652 19.1956948,17.5398757 18.9517169,15.5340028 L18.4568283,11.4521083 C18.3189466,10.3195097 18.6797823,9.18293888 19.4481869,8.32949787 C20.2165915,7.47605685 21.3190835,6.98735921 22.4771691,6.98685185 L23.4417824,6.98685185 C24.5955101,6.98673263 25.6945644,7.4711298 26.4632835,8.31854811 C27.2320025,9.16596643 27.5974607,10.2960144 27.4679948,11.4252564 L26.9995282,15.507151 C26.768187,17.5247693 25.0355243,19.0495341 22.9741547,19.0495299 Z" id="Shape" fill="url(#linearGradient-14)" fill-rule="nonzero"></path>
+                                    <g id="Group" transform="translate(0.003355, 0.005370)"></g>
+                                    <path d="M20.1679685,7.69780627 C20.1679685,7.69780627 21.5184273,7.52388889 22.3572215,8.10223647 C23.1960157,8.68058405 23.7542333,11.7041026 27.4172477,11.8652137 C27.4172477,11.8652137 26.3645609,13.6192593 26.8867104,14.7945442 C27.4738663,16.1164815 24.1186894,18.1820085 24.7058453,19.3800142 C25.2930013,20.5780199 27.5631979,20.197963 28.690118,19.9996724 C29.8644299,19.7931197 29.7730013,17.725114 30.6193447,18.0167664 C31.4581389,18.3059402 32.171114,17.1905556 31.9614155,16.4056553 C31.7517169,15.620755 30.9968021,15.2076496 30.9548624,14.4640598 C30.9129227,13.7204701 32.5485714,11.8614957 30.870983,10.3330057 C29.5620446,9.14037037 30.7032241,6.44981481 27.8932634,4.8387037 C25.8801573,3.68200855 21.7700655,3.35152422 20.1679685,7.69780627 Z" id="Shape" fill="#4B133E" fill-rule="nonzero"></path>
+                                    <path d="M20.8893316,7.59287749 C20.8893316,7.59287749 20.2392661,8.20551282 19.9876278,8.7838604 C19.7359895,9.36220798 20.1683879,11.807792 18.5054784,11.8656268 L18.1422805,10.6841453 L18.7785059,9.34692308 L18.939135,8.61861823 L19.7657667,8.01259259 L20.1553866,7.70978632 L20.8893316,7.59287749 Z" id="Shape" fill="#4B133E" fill-rule="nonzero"></path>
+                                </g>
+                            </g>
+                        </g>
+                        <text id="Customer@mail.com" mask="url(#mask-3)" font-family="Montserrat-Light, Montserrat" font-size="12" font-weight="300" fill="#5A5A5C">
+                            <tspan x="391" y="124">Customer@mail.com</tspan>
+                        </text>
+                        <text id="Today" mask="url(#mask-3)" font-family="Montserrat-Light, Montserrat" font-size="12" font-weight="300" fill="#5A5A5C">
+                            <tspan x="544" y="124">Today</tspan>
+                        </text>
+                        <text id="3:00" mask="url(#mask-3)" font-family="Montserrat-Light, Montserrat" font-size="12" font-weight="300" fill="#5A5A5C">
+                            <tspan x="622.556" y="124">3:00</tspan>
+                        </text>
+                        <g id="Group-21" mask="url(#mask-3)">
+                            <g transform="translate(263.000000, 364.000000)">
+                                <rect id="Rectangle-11-Copy" fill="#FADFEE" x="0" y="0" width="35" height="31" rx="9"></rect>
+                                <g id="Avatar" stroke-width="1" fill="none" transform="translate(9.000000, 3.000000)">
+                                    <g id="Group-26" transform="translate(0.000000, 13.000000)">
+                                        <mask id="mask-17" fill="white">
+                                            <use xlink:href="#path-16"></use>
+                                        </mask>
+                                        <use id="Rectangle-16" fill="url(#linearGradient-15)" xlink:href="#path-16"></use>
+                                        <path d="M4.27524961,-0.289973216 L7.30245137,17.5569975 C10.2970876,18.1239573 11.8281338,18.1239573 11.8955899,17.5569975 C11.963046,16.9900378 12.8917317,10.5852805 14.6816471,-1.65727436 L4.27524961,-0.289973216 Z" id="Path-15" fill="url(#linearGradient-18)" mask="url(#mask-17)"></path>
+                                        <path d="M8.06739919,0.768736811 C8.02073633,0.814382707 7.65730962,1.53893287 6.97711908,2.9423873 L3.94573869,0.221365675 L6.02669735,-0.580937171 C7.4338281,0.273199587 8.11406205,0.723090915 8.06739919,0.768736811 Z" id="Path-26" fill="#FFFFFF" mask="url(#mask-17)"></path>
+                                        <path d="M14.3831887,0.768736811 C14.3365258,0.814382707 13.9730991,1.53893287 13.2929086,2.9423873 L10.2615282,0.221365675 L12.3424868,-0.580937171 C13.7496176,0.273199587 14.4298515,0.723090915 14.3831887,0.768736811 Z" id="Path-26-Copy" fill="#FFFFFF" mask="url(#mask-17)" transform="translate(12.323482, 1.180725) scale(-1, 1) translate(-12.323482, -1.180725) "></path>
+                                        <path d="M5.60443843,0.397840086 L7.12478788,11.3554243 L4.98743427,11.3554243 L4.20185994,6.86859541 L4.76529668,6.69853177 L3.9826536,6.01750941 L2.95123681,1.60212487 C2.96907919,0.897557204 3.31288479,0.438125171 3.9826536,0.22382877 C4.65242241,0.00953236946 5.19301736,0.0675361413 5.60443843,0.397840086 Z" id="Path-10" fill="#FE93C5" mask="url(#mask-17)"></path>
+                                        <path d="M13.7058332,0.459034088 L15.2261826,11.4166183 L13.088829,11.4166183 L12.3032547,6.92978941 L12.8666914,6.75972577 L12.0840484,6.07870341 L11.0526316,1.66331887 C11.070474,0.958751206 11.4142796,0.499319173 12.0840484,0.285022772 C12.7538172,0.0707263715 13.2944121,0.128730143 13.7058332,0.459034088 Z" id="Path-10-Copy" fill="#FE93C5" mask="url(#mask-17)" transform="translate(13.139407, 5.787577) scale(-1, 1) translate(-13.139407, -5.787577) "></path>
+                                    </g>
+                                    <polygon id="Path-11" fill="#F54D85" points="7.89473684 13.9512195 8.21052632 15.8259271 9.74321099 15.8259271 10.0590005 13.9512195"></polygon>
+                                    <polygon id="Path-12" fill="#F54D85" points="8.23833911 15.8536585 6.94736842 23.8971175 9.09849761 25.9020475 11.0775917 23.8971175 9.80322552 15.8536585"></polygon>
+                                    <path d="M14.6842105,6.97560976 C14.6842105,3.12308687 12.0686109,0 8.84210526,0 C5.61559962,0 3,3.12308687 3,6.97560976" id="Oval-10" stroke="#36142D" stroke-width="0.5"></path>
+                                    <path d="M4.42105263,5.70731707 L13.5789474,5.70731707 L13.5789474,9.95121951 C13.5789474,12.1603585 11.7880864,13.9512195 9.57894737,13.9512195 L8.42105263,13.9512195 C6.21191363,13.9512195 4.42105263,12.1603585 4.42105263,9.95121951 L4.42105263,5.70731707 Z" id="Rectangle-2" fill="url(#linearGradient-14)"></path>
+                                    <path d="M4.51312981,8.02857575 C4.7372185,6.84436349 5.18186573,6.14713984 5.84707152,5.93690483 C6.84488019,5.6215523 7.02949501,6.6534993 9.27216192,6.84531871 C10.7672732,6.97319832 12.2151793,6.67039369 13.6158802,5.93690483 C16.0942366,3.3606988 16.4112647,1.80601429 14.5669645,1.27285129 C11.8005141,0.473106793 8.15488104,2.92458206 5.28887309,1.97723978 C3.37820112,1.34567825 3.11962003,3.36279025 4.51312981,8.02857575 Z" id="Path-14" fill="#511943"></path>
+                                    <g id="Group-23" transform="translate(2.368421, 6.024390)">
+                                        <path d="M1.45399991,3.17260456 C2.18010395,3.91339916 3.01079017,4.46729713 3.94605859,4.83429846 C4.88132701,5.20129979 5.90946679,5.37680913 7.03047793,5.36082648" id="Path-13" stroke="#36142D" stroke-width="0.5"></path>
+                                        <rect id="Rectangle-23" fill="#200519" x="0" y="0" width="1.89473684" height="3.64634146" rx="0.947368421"></rect>
+                                        <rect id="Rectangle-23-Copy" fill="#200519" x="11.2105263" y="0" width="1.89473684" height="3.64634146" rx="0.947368421"></rect>
+                                        <ellipse id="Oval-11" fill="#36142D" cx="6.71052632" cy="5.31097561" rx="1" ry="1"></ellipse>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <rect id="Rectangle-17" fill="#FFFFFF" mask="url(#mask-3)" x="248" y="0" width="755" height="40"></rect>
+                        <path d="M247.741723,175 L65,175" id="Path-7" stroke="#E9E9E9" stroke-width="0.5" mask="url(#mask-3)"></path>
+                        <text id="+-Add" mask="url(#mask-3)" font-family=".AppleSystemUIFont" font-size="10" font-weight="normal" fill="#2D354B">
+                            <tspan x="263" y="26">+ Add</tspan>
+                        </text>
+                    </g>
+                    <g id="Emoticon" transform="translate(509.000000, 88.000000)">
+                        <circle id="Oval-7" fill="url(#linearGradient-19)" cx="6.5" cy="6.5" r="6.5"></circle>
+                        <path d="M4.1097561,6.28480749 C4.72265747,6.28480749 5.2195122,5.78795276 5.2195122,5.17505139 C5.2195122,4.56215002 4.79414544,5.75553117 4.1097561,5.75553117 C3.42536675,5.75553117 3,4.56215002 3,5.17505139 C3,5.78795276 3.49685473,6.28480749 4.1097561,6.28480749 Z" id="Oval-8" fill="#8B5E3A"></path>
+                        <path d="M9.1097561,6.28480749 C9.72265747,6.28480749 10.2195122,5.78795276 10.2195122,5.17505139 C10.2195122,4.56215002 9.79414544,5.75553117 9.1097561,5.75553117 C8.42536675,5.75553117 8,4.56215002 8,5.17505139 C8,5.78795276 8.49685473,6.28480749 9.1097561,6.28480749 Z" id="Oval-8-Copy" fill="#8B5E3A"></path>
+                        <g id="Group-29" transform="translate(6.170732, 8.731707) scale(1, -1) translate(-6.170732, -8.731707) translate(2.170732, 6.731707)" fill="#D15155">
+                            <path d="M0.993604993,1.06011388 C0.993604993,0.682496503 2.5653138,1.23843618 4.11011716,1.23843618 C5.65492053,1.23843618 7.23848855,0.658638183 7.23848855,1.33588157 C7.23848855,2.01312496 6.51226881,3.35183967 4.11011716,3.35183967 C1.70796552,3.35183967 0.993604993,1.43773126 0.993604993,1.06011388 Z" id="Path-16"></path>
+                        </g>
+                    </g>
+                    <g id="Emoticon-Copy" transform="translate(526.000000, 88.000000)">
+                        <circle id="Oval-7" fill="url(#linearGradient-19)" cx="6.5" cy="6.5" r="6.5"></circle>
+                        <path d="M4.1097561,6.28480749 C4.72265747,6.28480749 5.2195122,5.78795276 5.2195122,5.17505139 C5.2195122,4.56215002 4.79414544,5.75553117 4.1097561,5.75553117 C3.42536675,5.75553117 3,4.56215002 3,5.17505139 C3,5.78795276 3.49685473,6.28480749 4.1097561,6.28480749 Z" id="Oval-8" fill="#8B5E3A"></path>
+                        <path d="M9.1097561,6.28480749 C9.72265747,6.28480749 10.2195122,5.78795276 10.2195122,5.17505139 C10.2195122,4.56215002 9.79414544,5.75553117 9.1097561,5.75553117 C8.42536675,5.75553117 8,4.56215002 8,5.17505139 C8,5.78795276 8.49685473,6.28480749 9.1097561,6.28480749 Z" id="Oval-8-Copy" fill="#8B5E3A"></path>
+                        <g id="Group-29" transform="translate(6.170732, 8.731707) scale(1, -1) translate(-6.170732, -8.731707) translate(2.170732, 6.731707)" fill="#D15155">
+                            <path d="M0.993604993,1.06011388 C0.993604993,0.682496503 2.5653138,1.23843618 4.11011716,1.23843618 C5.65492053,1.23843618 7.23848855,0.658638183 7.23848855,1.33588157 C7.23848855,2.01312496 6.51226881,3.35183967 4.11011716,3.35183967 C1.70796552,3.35183967 0.993604993,1.43773126 0.993604993,1.06011388 Z" id="Path-16"></path>
+                        </g>
+                    </g>
+                    <g id="Group-12-Copy" transform="translate(347.000000, 165.000000)">
+                        <text id="Hi," font-family="Montserrat-Regular, Montserrat" font-size="12" font-weight="normal" line-spacing="17" fill="#5A5A5C">
+                            <tspan x="0" y="12">Hi,</tspan>
+                        </text>
+                        <text id="I-haven’t-received-t" font-family="Montserrat-Regular, Montserrat" font-size="12" font-weight="normal" line-spacing="17" fill="#5A5A5C">
+                            <tspan x="0" y="38">I haven’t received the product I’ve ordered, can </tspan>
+                            <tspan x="0" y="55">you please check?</tspan>
+                        </text>
+                        <text id="Thanks,-Andrew" font-family="Montserrat-Regular, Montserrat" font-size="12" font-weight="normal" line-spacing="17" fill="#5A5A5C">
+                            <tspan x="0" y="84">Thanks,</tspan>
+                            <tspan x="0" y="101">Andrew</tspan>
+                        </text>
+                        <g id="Emoticon" transform="translate(112.000000, 45.000000)">
+                            <circle id="Oval-7" fill="url(#linearGradient-19)" cx="6.5" cy="6.5" r="6.5"></circle>
+                            <path d="M4.1097561,6.28480749 C4.72265747,6.28480749 5.2195122,5.78795276 5.2195122,5.17505139 C5.2195122,4.56215002 4.79414544,5.75553117 4.1097561,5.75553117 C3.42536675,5.75553117 3,4.56215002 3,5.17505139 C3,5.78795276 3.49685473,6.28480749 4.1097561,6.28480749 Z" id="Oval-8" fill="#8B5E3A"></path>
+                            <path d="M9.1097561,6.28480749 C9.72265747,6.28480749 10.2195122,5.78795276 10.2195122,5.17505139 C10.2195122,4.56215002 9.79414544,5.75553117 9.1097561,5.75553117 C8.42536675,5.75553117 8,4.56215002 8,5.17505139 C8,5.78795276 8.49685473,6.28480749 9.1097561,6.28480749 Z" id="Oval-8-Copy" fill="#8B5E3A"></path>
+                            <g id="Group-29" transform="translate(6.170732, 8.731707) scale(1, -1) translate(-6.170732, -8.731707) translate(2.170732, 6.731707)" fill="#D15155">
+                                <path d="M0.993604993,1.06011388 C0.993604993,0.682496503 2.5653138,1.23843618 4.11011716,1.23843618 C5.65492053,1.23843618 7.23848855,0.658638183 7.23848855,1.33588157 C7.23848855,2.01312496 6.51226881,3.35183967 4.11011716,3.35183967 C1.70796552,3.35183967 0.993604993,1.43773126 0.993604993,1.06011388 Z" id="Path-16"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="Group-12-Copy-2" transform="translate(347.000000, 317.000000)" fill="#5A5A5C" font-family="Montserrat-Regular, Montserrat" font-size="12" font-weight="normal" line-spacing="17">
+                        <text id="Hi-Andrew,">
+                            <tspan x="0" y="12">Hi Andrew,</tspan>
+                        </text>
+                        <text id="We’re-sorry-to-hear">
+                            <tspan x="0" y="38">We’re sorry to hear you are experincing issues </tspan>
+                            <tspan x="0" y="55">with our shipping service.</tspan>
+                        </text>
+                        <text id="Can-you-share-your-c">
+                            <tspan x="0" y="80">Can you share your contract number??</tspan>
+                        </text>
+                        <text id="Best-Customer-Suppor">
+                            <tspan x="0" y="129">Best</tspan>
+                            <tspan x="0" y="146">Customer Support</tspan>
+                        </text>
+                    </g>
+                    <g id="ic_wifi_black_24px" transform="translate(24.000000, 211.000000)">
+                        <polygon id="Shape" points="0 0 20 0 20 21 0 21"></polygon>
+                        <path d="M1,8.09805498 L2.63636364,9.89840862 C6.70272727,5.42452982 13.2972727,5.42452982 17.3636364,9.89840862 L19,8.09805498 C14.0336364,2.63398167 5.97454545,2.63398167 1,8.09805498 Z M7.54545455,15.2994695 L10,18 L12.4545455,15.2994695 C11.1045455,13.805176 8.90363636,13.805176 7.54545455,15.2994695 Z M4.27272727,11.6987623 L5.90909091,13.4991159 C8.16727273,11.0146279 11.8327273,11.0146279 14.0909091,13.4991159 L15.7272727,11.6987623 C12.5690909,8.22407973 7.43909091,8.22407973 4.27272727,11.6987623 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                    </g>
+                    <g id="ic_inbox_black_24px" transform="translate(25.000000, 149.000000)">
+                        <path d="M14.4444444,2 L3.54777778,2 C2.68444444,2 2.00777778,2.69222222 2.00777778,3.55555556 L2,14.4444444 C2,15.3 2.68444444,16 3.54777778,16 L14.4444444,16 C15.3,16 16,15.3 16,14.4444444 L16,3.55555556 C16,2.69222222 15.3,2 14.4444444,2 Z M14.4444444,11.3333333 L11.3333333,11.3333333 C11.3333333,12.6244444 10.2833333,13.6666667 9,13.6666667 C7.71666667,13.6666667 6.66666667,12.6244444 6.66666667,11.3333333 L3.54777778,11.3333333 L3.54777778,3.55555556 L14.4444444,3.55555556 L14.4444444,11.3333333 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+                        <polygon id="Shape" points="0 0 19 0 19 19 0 19"></polygon>
+                    </g>
+                    <g id="ic_home_black_24px" transform="translate(26.000000, 84.000000)">
+                        <polygon id="Shape" fill="#000000" fill-rule="nonzero" points="6.6 14 6.6 9.76470588 9.4 9.76470588 9.4 14 12.9 14 12.9 8.35294118 15 8.35294118 8 2 1 8.35294118 3.1 8.35294118 3.1 14"></polygon>
+                        <polygon id="Shape" points="0 0 17 0 17 17 0 17"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

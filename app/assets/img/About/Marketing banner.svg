@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1322px" height="422px" viewBox="0 0 1322 422" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-12.4%" y="-31.9%" width="124.8%" height="207.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="59" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="38.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.803921569   0 0 0 0 0.905882353   0 0 0 0 0.964705882  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <linearGradient x1="-2.12188799%" y1="46.8207687%" x2="100%" y2="46.8207675%" id="linearGradient-2">
+            <stop stop-color="#1258EE" offset="0%"></stop>
+            <stop stop-color="#049CFB" offset="100%"></stop>
+        </linearGradient>
+        <path d="M6,0 L1164,0 C1167.31371,-6.08718376e-16 1170,2.6862915 1170,6 L1170,264 C1170,267.313708 1167.31371,270 1164,270 L6,270 C2.6862915,270 4.05812251e-16,267.313708 0,264 L0,6 C-4.05812251e-16,2.6862915 2.6862915,6.08718376e-16 6,0 Z" id="path-3"></path>
+        <linearGradient x1="-22.2266135%" y1="50%" x2="116.829595%" y2="50%" id="linearGradient-5">
+            <stop stop-color="#FF6268" offset="0%"></stop>
+            <stop stop-color="#FFA34E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="About" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-59.000000, -4054.000000)">
+        <g id="Group-5" transform="translate(135.000000, 4071.000000)">
+            <g id="Group-17" filter="url(#filter-1)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Mask" fill="url(#linearGradient-2)" xlink:href="#path-3"></use>
+                <g mask="url(#mask-4)" fill-opacity="0.100000001">
+                    <g transform="translate(-179.000000, -285.000000)">
+                        <g id="Group-18">
+                            <path d="M432.822245,651.214614 L0,693.572367 L0,0 L488.270369,428.727987 C517.502287,454.395204 524.395595,495.879592 504.918609,528.918221 L432.822245,651.214614 Z" id="Path-4" fill="#FFFFFF"></path>
+                            <polygon id="Path-3" fill="#FFFFFF" points="502 499.420188 525.570685 497 521.503798 509.134481 528 519.579812 504.429315 522 508.577843 510.624348"></polygon>
+                        </g>
+                        <g id="Group-19" transform="translate(1002.000000, 156.000000)">
+                            <path d="M92.0977526,42.357753 L13.2454986,176.114099 C-2.12006022,202.178554 3.21330329,235.485465 25.9491952,255.448816 L524.919998,693.572367 L524.919998,0 L92.0977526,42.357753 Z" id="Path" fill="#FFFFFF"></path>
+                            <polygon id="Path-3" fill="#FFFFFF" points="0 167.790903 24.1722625 167 19.1477627 178.576913 25 189.209097 0.827737453 190 5.88005471 179.169457"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Btn" transform="translate(455.000000, 240.000000)">
+                <rect id="Rectangle-3" fill="url(#linearGradient-5)" x="0" y="0" width="261" height="60" rx="30"></rect>
+                <text id="JOIN-THE-TEAM" font-family="Montserrat-Bold, Montserrat" font-size="17" font-weight="bold" line-spacing="32" letter-spacing="0.53125" fill="#FFFFFF">
+                    <tspan x="59.514375" y="31">JOIN THE TEAM</tspan>
+                </text>
+            </g>
+            <text id="We-are-hiring-for-Ma" font-family="Montserrat-Bold, Montserrat" font-size="35" font-weight="bold" line-spacing="45" letter-spacing="0.589999974" fill="#FFFFFF">
+                <tspan x="329.485" y="107">We are hiring for Marketing, </tspan>
+                <tspan x="286.04" y="152">Engineering and Sales positions!</tspan>
+                <tspan x="584.705" y="197"> </tspan>
+            </text>
+        </g>
+    </g>
+</svg>

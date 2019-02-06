@@ -1,0 +1,74 @@
+.features-header {
+	padding-bottom: 8.95%;
+		@include for-size(phone-only) {
+			padding-bottom: 12.95%;
+		}
+		@include for-size(tablet-portrait-up) {
+				padding-bottom: 8.95%;
+		}
+		& &__h3 {
+		color: #ffffff;
+		font-size: 1.5em;
+		font-weight: 700;
+		line-height: 2.9em;
+		letter-spacing: 0.1px;
+		text-align: center;
+		margin-top: 30px;
+			@include for-size(phone-only) {
+				line-height: 1.5em;
+				margin-bottom: 35px;
+			}
+			@include for-size(tablet-portrait-up) {
+				line-height: 2.9em;
+			}
+		}
+		p {
+			color: #fff;
+			text-align: center;
+			font-size: 1.5em;
+			font-weight: 400;
+			line-height: 2.9em;
+			letter-spacing: 0.1px;
+			margin-top: -31px;
+			margin-bottom: 33px;
+			@include for-size(phone-only) {
+				line-height: 1.9em;
+				padding-left: 5%;
+				padding-right: 5%;
+				margin-top: 0;
+			}
+		}
+		&__auto-container {
+			display: flex;
+			justify-content: space-between;
+			width: 62%;
+			margin: 0 auto;
+			margin-top: 59px;
+				@include for-size(phone-only) {
+					flex-direction: column;
+					width: 60%;
+				}
+				@include for-size(tablet-portrait-up) {
+					flex-direction: row;
+					width: 75%;
+				}
+				
+				@include for-size(tablet-landscape-up) {
+					width: 62%;
+				}
+			
+		}
+		& &__auto {
+				img {
+					width: 100%;
+					transition: transform 200ms linear;
+				}
+				img:hover {
+					transform: scale(1.1);
+				}
+				p {
+					line-height: 1.4em;
+					margin-top: 5px;
+				}
+			}
+}

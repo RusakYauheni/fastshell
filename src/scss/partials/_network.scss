@@ -1,0 +1,79 @@
+.network {
+	width: 100%;
+	height: auto;
+	&-container {
+		position: relative;
+		width: 100%;
+		transform: skewY(-5deg);
+		background-image: linear-gradient(to top, #ffffff 0%, #d7f1ff 100%);
+	}
+		img {
+			margin-top: 3%;
+			width: 100%;
+			transform: skewY(5deg);
+		}
+		&__info {
+			position: absolute;
+			left: 0;
+			right: 0;
+			top: 60vw;
+			transform: skewY(5deg);
+			width: 55.55%;
+			margin: 0 auto;
+			text-align: center;
+			p {
+				color: #3d4970;
+				font-size: 1.7em;
+				font-weight: 400;
+				@include for-size(phone-only) {
+					display: none;
+				}
+				@include for-size(tablet-portrait-up) {
+					display: none;
+				}
+				@include for-size(tablet-landscape-up) {
+					display: block;
+					line-height: 1.5em;
+				}
+				@include for-size(desktop-up) {
+					line-height: 2em;
+				}
+			}
+			h2 {
+				color: #435079;
+				font-weight: 700;
+				line-height: 1.04em;
+				letter-spacing: 1.06px;
+				@include for-size(phone-only) {
+					font-size: 1.5em;
+					margin-top: 3%;
+				}
+				@include for-size(tablet-portrait-up) {
+					font-size: 3em;
+					margin-top: 0;
+				}
+				@include for-size(tablet-landscape-up) {
+					margin-top: 5.375%;
+					
+				}
+				@include for-size(desktop-up) {
+					font-size: 4em;
+				}
+			}
+			a {
+
+				@include for-size(phone-only) {
+					white-space: nowrap;
+					width: 90%;
+				}
+				@include for-size(tablet-portrait-up) {
+					margin-top: 7.5%;
+					width: 60%;
+				}
+				@include for-size(desktop-up) {
+					margin-top: 12.5%;
+					width: 40%;
+				}
+			}
+		}
+}

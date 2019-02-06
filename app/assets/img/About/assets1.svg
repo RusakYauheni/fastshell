@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="264px" height="419px" viewBox="0 0 264 419" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 4 Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-2.12188799%" y1="46.8207687%" x2="100%" y2="46.8207675%" id="linearGradient-1">
+            <stop stop-color="#1258EE" offset="0%"></stop>
+            <stop stop-color="#049CFB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="About" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, -1065.000000)">
+        <path d="M117.032092,1087.56471 L23.1390818,1164.28623 C-3.80400416,1186.30187 -7.79848976,1225.99076 14.2171485,1252.93385 C16.0921505,1255.2285 18.1267144,1257.38801 20.3056859,1259.39629 L264,1484 L264,1096.3147 L227.385163,1076.77618 C191.792263,1057.78299 148.272524,1062.03764 117.032092,1087.56471 Z" id="Path-4-Copy-2" fill="url(#linearGradient-1)" transform="translate(132.000000, 1274.500000) scale(-1, 1) translate(-132.000000, -1274.500000) "></path>
+    </g>
+</svg>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="556px" height="280px" viewBox="0 0 556 280" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="118.833685%" y1="140.441671%" x2="-40.7143058%" y2="3.88310557%" id="linearGradient-1">
+            <stop stop-color="#4893FF" offset="0%"></stop>
+            <stop stop-color="#99B1FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#81A8FF" offset="2.92370855%"></stop>
+            <stop stop-color="#FFFFFF" offset="49.6651786%"></stop>
+            <stop stop-color="#7AA6FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Features" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-134.000000, -5312.000000)">
+        <g id="Group-96" transform="translate(-1.000000, 3677.000000)">
+            <g id="Group-53" transform="translate(0.000000, 1227.000000)">
+                <g id="1" transform="translate(135.000000, 408.000000)">
+                    <rect id="Rectangle-6" fill="url(#linearGradient-1)" x="0" y="0" width="556" height="280" rx="6"></rect>
+                    <g id="diagram" transform="translate(33.000000, 38.000000)">
+                        <g id="Group-35" transform="translate(1.000000, 0.000000)" opacity="0.349241395" stroke="url(#linearGradient-2)" stroke-linecap="square">
+                            <path d="M0.5,0.438636364 L0.5,192.264705" id="Line-2"></path>
+                            <path d="M61.5,0.438636364 L61.5,192.264705" id="Line-2-Copy"></path>
+                            <path d="M122.5,0.438636364 L122.5,192.264705" id="Line-2-Copy-2"></path>
+                            <path d="M183.5,0.438636364 L183.5,192.264705" id="Line-2-Copy-3"></path>
+                            <path d="M244.5,0.438636364 L244.5,192.264705" id="Line-2-Copy-4"></path>
+                            <path d="M305.5,0.438636364 L305.5,192.264705" id="Line-2-Copy-5"></path>
+                            <path d="M366.5,0.438636364 L366.5,192.264705" id="Line-2-Copy-6"></path>
+                            <path d="M427.5,0.438636364 L427.5,192.264705" id="Line-2-Copy-7"></path>
+                            <path d="M488.5,0.438636364 L488.5,192.264705" id="Line-2-Copy-8"></path>
+                        </g>
+                        <path d="M2.36809677,202.685082 L127.580861,186.475098 C122.951306,185.51975 118.577996,183.516312 114.274783,180.526826 C109.486322,177.200232 105.513621,173.376953 98.9775518,166.265071 C98.5187701,165.765872 96.9529975,164.057272 96.8815325,163.979375 C96.0512479,163.074363 95.4177372,162.387372 94.8011476,161.724872 C85.8435968,152.100352 79.9899368,147.679787 72.8222929,146.385444 C58.9069895,143.8726 35.2851729,162.618079 2.36809677,202.685082 Z M142.671895,184.521419 L489.531469,139.617144 C486.475339,132.777046 483.849274,125.328848 480.194461,113.7414 C479.687198,112.133141 477.917468,106.479332 477.945518,106.568724 C472.525501,89.2955354 469.293285,80.7105129 464.80675,73.2231744 C459.140818,63.767605 452.529505,59 444,59 C437.856163,59 431.795302,63.2651283 425.546089,71.4857071 C420.464024,78.1709504 415.649816,86.7734287 409.39968,99.6542374 C407.923522,102.696427 402.997231,113.062855 402.166446,114.786497 C399.429727,120.464412 397.348196,124.553471 395.370234,128.047486 C390.315589,136.976376 386.204685,141.435374 382,141.435374 C377.092476,141.435374 373.060641,139.697461 369.446483,136.35916 C366.759352,133.877128 364.958063,131.430359 361.161396,125.585557 C357.458063,119.884441 355.717686,117.520411 353.196483,115.191643 C349.935641,112.179689 346.37819,110.646259 342,110.646259 C335.374956,110.646259 330.7451,115.474088 323.835479,127.56334 C323.175793,128.717544 320.877638,132.805422 320.49464,133.480082 C316.063436,141.285734 312.94878,145.901385 309.096573,149.741001 C304.10991,154.711367 298.567646,157.326531 292,157.326531 C286.075707,157.326531 280.958595,154.356195 276.13498,148.647653 C272.377206,144.200489 269.179913,138.798575 264.282426,129.243633 C263.695291,128.09814 261.674759,124.126425 261.359503,123.509411 C255.589855,112.217154 251.930426,106.067815 247.371155,100.836899 C241.582626,94.1956384 235.354057,90.7823129 228,90.7823129 C220.680422,90.7823129 212.865383,95.784984 204.069654,105.50638 C197.181104,113.119885 190.919471,121.875278 179.959946,138.502713 C166.211805,159.360946 162.804189,164.317516 156.626747,171.710505 C151.597916,177.728868 147.006653,182.020026 142.671889,184.521423 Z" id="Path" stroke="#92BFFF" stroke-width="2" opacity="0.324445199"></path>
+                        <circle id="Oval-9" stroke="#FFFFFF" stroke-width="2" fill="#76A4FF" opacity="0.558650362" cx="62.5" cy="148.5" r="4.5"></circle>
+                        <circle id="Oval-9-Copy" stroke="#FFFFFF" stroke-width="2" fill="#76A4FF" opacity="0.558650362" cx="185.5" cy="131.5" r="4.5"></circle>
+                        <circle id="Oval-9-Copy-2" stroke="#FFFFFF" stroke-width="2" fill="#76A4FF" opacity="0.558650362" cx="367.5" cy="136.5" r="4.5"></circle>
+                        <circle id="Oval-9-Copy-3" stroke="#FFFFFF" stroke-width="2" fill="#76A4FF" opacity="0.558650362" cx="429.5" cy="67.5" r="4.5"></circle>
+                    </g>
+                    <g id="Group-63" transform="translate(50.000000, 33.000000)">
+                        <g id="Group-31" fill="#FFFFFF" font-family="Montserrat-Bold, Montserrat" font-size="21" font-weight="bold" letter-spacing="0.319999993" line-spacing="29">
+                            <text id="Before-Jatana">
+                                <tspan x="14" y="21">Before Jatana</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-62" transform="translate(14.000000, 66.000000)">
+                            <g id="Group-61" fill="#FFFFFF" font-family="Montserrat-Regular, Montserrat" font-weight="normal">
+                                <text id="Average-Processing-T" font-size="16" line-spacing="24" letter-spacing="0.243809521">
+                                    <tspan x="0" y="19">Average Processing </tspan>
+                                    <tspan x="0" y="43">Time</tspan>
+                                </text>
+                                <text id="4.5-Minutes" font-size="22" line-spacing="28" letter-spacing="0.335238069">
+                                    <tspan x="293" y="22">4.5 Minutes</tspan>
+                                </text>
+                            </g>
+                            <path d="M3.5,63.5 L425.023428,63.5" id="Line-3" stroke="#FFFFFF" opacity="0.471976902" stroke-linecap="square"></path>
+                            <g id="Group-60" transform="translate(0.000000, 71.000000)" fill="#FFFFFF" font-family="Montserrat-Regular, Montserrat" font-weight="normal">
+                                <text id="Average-tickets-solv" font-size="16" line-spacing="24" letter-spacing="0.243809521">
+                                    <tspan x="0" y="19">Average tickets solved </tspan>
+                                    <tspan x="0" y="43">per day</tspan>
+                                </text>
+                                <text id="36-tickets" font-size="22" line-spacing="28" letter-spacing="0.335238069">
+                                    <tspan x="314" y="22">36 tickets</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

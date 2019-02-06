@@ -1,0 +1,140 @@
+.button {
+		width: 8.9766%;
+		border: 1px solid #ffffff;
+		border-radius: 60px;
+		line-height: 2.3em;
+		text-align: center;
+			@include for-size(tablet-portrait-up) {
+					width: 15%;
+				}
+			@include for-size(tablet-landscape-up) {
+				width: 10%;
+      }
+      &:hover {
+        cursor: pointer;
+      }
+	}
+.button--orange {
+	display: block;
+	width: 18.0553%;
+	margin: 0 auto;
+	background-image: linear-gradient(to right, #ff6268 0%, #ffa34e 100%);
+	font-size: 1.6em;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1.06px;
+	line-height: 3em;
+	border: none;
+		@include for-size(phone-only) {
+		width: 60%;
+		}
+		@include for-size(tablet-portrait-up) {
+			width: 40%;
+		}
+		@include for-size(tablet-landscape-up) {
+			width: 25%;
+		}
+		@include for-size(desktop-up) {
+			width: 20%;
+		}
+}
+.button--small-mobile {
+		@include for-size(phone-only) {
+			line-height: 2.5em;
+			font-size: 1.25em;
+		}
+}
+.button--constant {
+	color: #fff;
+	text-decoration: none;
+	box-sizing: border-box;
+	margin-bottom: 19px;
+	@include for-size(phone-only) {
+	width: 134px;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 32px;
+	text-transform: uppercase;
+	letter-spacing: 0.44px;
+	}
+	@include for-size(phone-only) {
+	width: 134px;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 32px;
+	text-transform: uppercase;
+	letter-spacing: 0.44px;
+	}
+	@include for-size(tablet-portrait-up) {
+	width: 134px;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 32px;
+	text-transform: uppercase;
+	letter-spacing: 0.44px;
+	}
+	@include for-size(tablet-landscape-up) {
+	width: 134px;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 32px;
+	text-transform: uppercase;
+	letter-spacing: 0.44px;
+	}
+	@include for-size(desktop-up) {
+	width: 134px;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 32px;
+	text-transform: uppercase;
+	letter-spacing: 0.44px;
+	}
+}
+.button--signup {
+	width: 60%;
+	color: #fff;
+	font-size: 1.55em;
+	text-transform: uppercase;
+	letter-spacing: 0.53px;
+	margin-top: 20px;
+	outline: none;
+	@include for-size(phone-only) {
+		font-size: 1.4em;
+	}
+	@include for-size(tablet-portrait-up) {
+		font-size: 1.4em;
+	}
+	@include for-size(desktop-up) {
+		font-size: 1.55em;
+	}
+}
+.button--continue {
+	line-height: 2.6em;
+	@include for-size(phone-only) {
+	    box-shadow: 0px 7px 30px #9b9a9b;
+	}
+	@include for-size(tablet-portrait-up) {
+		font-size: 1.6em;
+	}
+	@include for-size(desktop-up) {
+		font-size: 1.4em;
+	}
+	@include for-size(big-desktop-up) {
+		line-height: 2.2em;
+	}
+}
+.button--booknow {
+	margin-top: 6%;
+}
+.button--contact {
+	width: 178px;
+}
+.button--apply {
+	width: 85px;
+	height: 26px;
+	font-family: Helvetica;
+	font-size: 14px;
+	line-height: 26px;
+	text-transform: uppercase;
+	letter-spacing: 0.44px;
+}

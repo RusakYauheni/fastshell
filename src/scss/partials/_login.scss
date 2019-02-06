@@ -1,0 +1,69 @@
+html {
+	box-sizing: border-box;
+}
+p {
+	margin: 0;
+	padding: 0;
+}
+.login {
+	width: 100%;
+	height: auto;
+	background-image: url('../img/Login/login-background.jpg');
+	@include image-2x('../img/Login/login-background-2x.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	padding-bottom: 24.8%;
+		&__logotype {
+			display: inline-block;
+			text-decoration: none;
+			color: #fff;
+			font-size: 2.1em;
+			font-weight: 700;
+			text-transform: uppercase;
+			margin-top: 5.3%;
+			margin-left: 11.5%;
+		}
+		&__main {
+			margin: 0 auto;
+			margin-top: 168px;
+			width: 40%;
+			height: auto;
+			padding-top: 75px;
+			padding-bottom: 75px;
+			background-color: #fff;
+			border: 1px solid #979797;
+			border-radius: 6px;
+				@include for-size(phone-only) {
+					width: 95%;
+				}
+				@include for-size(tablet-portrait-up) {
+					width: 78%;
+				}
+				@include for-size(tablet-landscape-up) {
+					width: 40%;
+				}
+		}
+		&__form {
+			margin: 0 auto;
+			width: 75%;
+			display: flex;
+			flex-direction: column;
+			justify-content: space-between;
+				@include for-size(phone-only) {
+					width: 90%;
+				}
+				@include for-size(tablet-portrait-up) {
+					width: 75%;
+				}
+				a {
+					text-decoration: none;
+					color: #4b4b4b;
+					font-size: 1.4em;
+					font-weight: 400;
+					text-align: center;
+					margin-top: 21px;
+					margin-bottom: 2.8%;
+				}
+		}
+}

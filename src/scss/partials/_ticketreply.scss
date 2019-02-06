@@ -1,0 +1,284 @@
+.ticket-section {
+	position: relative;
+	width: 100%;
+	height: auto;
+	background-image: linear-gradient(to top, #ffffff 0%, #e8f7ff 100%);
+	padding-top: 13.3333%;
+	padding-bottom: 11.1111%;
+		@include for-size(phone-only) {
+			padding-top: 20%;
+		}
+		&__head-info {
+			width: 65%;
+			margin: 0 auto;
+			margin-bottom: 3.25em;
+			text-align: center;
+			@include for-size(phone-only) {
+				width: 90%;
+			}
+			img {
+				width: 31%;
+				display: block;
+				margin: 0 auto;
+				@include for-size(phone-only) {
+					width: 75%;
+				}
+			}
+			h2 {
+				color: #435079;
+				font-size: 2.75em;
+				font-weight: 700;
+				line-height: 1em;
+				letter-spacing: 0.53px;
+				margin-top: 0;
+
+			}
+			p {
+				color: #455792;
+				font-size: 1.25em;
+				line-height: 2.9em;
+				letter-spacing: 0.1px;
+				@include for-size(phone-only) {
+					line-height: 1.9em;
+				}
+			}
+		}
+		&__head-info--margin {
+			margin-top: 12%;
+		}
+		&__image {
+			margin-top: 6.9%;
+			width: 100%;
+			display: flex;
+			align-items: center;
+			@include for-size(phone-only) {
+				flex-direction: column;
+			}
+			@include for-size(tablet-portrait-up) {
+				flex-direction: column;
+			}
+			@include for-size(tablet-landscape-up) {
+        flex-direction: row;
+        // justify-content: center;
+			}
+			img {
+
+				width: 49%;
+				@include for-size(phone-only) {
+					width: 95%;
+				}
+				@include for-size(tablet-portrait-up) {
+					width: 80%;
+				}
+				@include for-size(tablet-landscape-up) {
+				width: 49%;
+				}
+				@include for-size(big-desktop-up) {
+					max-width: none;
+					width: 55%;
+				}
+			}
+
+    }
+    &__image-text {
+      max-width: 69%;
+      margin: 5% auto 0;
+			display: flex;
+      justify-content: space-between;
+      p {
+				font-size: 1.25em;
+				line-height: 2.9em;
+        letter-spacing: 0.1px;
+        color: #566390;
+        font-weight: 400;
+        /* Text style for "Jatana’s s" */
+        letter-spacing: 0.5px;
+        margin-bottom: 30px;
+      }
+      img, p {
+        width: 100%;
+      }
+      flex-direction: column;
+      @include for-size(phone-only) {
+        max-width: 95%;
+
+      }
+      @include for-size(tablet-portrait-up) {
+        max-width: 80%;
+      }
+      @include for-size(tablet-landscape-up) {
+        max-width: 69%;
+        flex-direction: row;
+        p {
+          width: 38%;
+          margin-bottom: 0;
+        }
+        img {
+          width: 52%;
+        }
+      }
+    }
+    &__image--center {
+      justify-content: center;
+      img {
+        max-width: 850px;
+      }
+    }
+		&__image--flex-start {
+			align-items: center;
+      flex-direction: row-reverse;
+      justify-content: flex-start;
+				@include for-size(phone-only) {
+					flex-direction: column;
+				}
+				@include for-size(tablet-portrait-up) {
+					flex-direction: column;
+				}
+				@include for-size(tablet-landscape-up) {
+					flex-direction: row-reverse;
+        }
+        .ticket-section__main-info {
+          margin-right: 4%;
+        }
+		}
+		&__image--centered {
+			img {
+				margin: 0 auto;
+				width: 69%;
+				@include for-size(phone-only) {
+					width: 95%;
+				}
+				@include for-size(tablet-portrait-up) {
+					width: 80%;
+				}
+				@include for-size(tablet-landscape-up) {
+				width: 69%;
+				}
+			}
+		}
+		&__main-info {
+			width: 100%;
+			max-width: 370px;
+			font-size: 1.25em;
+			line-height: 2em;
+			margin-left: 8.333%;
+				@include for-size(phone-only) {
+					font-size: 1.2em;
+					margin-left: 0;
+					max-width: 300px;
+				}
+				@include for-size(tablet-portrait-up) {
+
+					margin-left: 0;
+					margin-bottom: 5%;
+				}
+				@include for-size(tablet-landscape-up) {
+
+					margin-left: 8.333%;
+				}
+				h4 {
+					color: #566390;
+					font-family: Helvetica;
+					font-weight: 700;
+					letter-spacing: 0.5px;
+				}
+				p {
+					color: #566390;
+					font-family: Helvetica;
+					font-weight: 400;
+					letter-spacing: 0.5px;
+
+				}
+		}
+		&__main-info--margin {
+			margin-left: 0;
+			margin-right: 8.7%;
+			text-align: center;
+			margin-top: 5%;
+			@include for-size(phone-only) {
+				margin-right: 0;
+			}
+			@include for-size(tablet-portrait-up) {
+				margin-right: 0;
+			}
+			@include for-size(tablet-landscape-up) {
+				margin-right: 5%;
+				margin-top: 0;
+			}
+		}
+		&__left-image {
+			position: absolute;
+			top: 11.25%;
+			width: 8.75%;
+
+				@include for-size(phone-only) {
+					display: none;
+				}
+				@include for-size(tablet-portrait-up) {
+					display: none;
+				}
+				@include for-size(tablet-landscape-up) {
+					display: block;
+				}
+		}
+		& &__left-image--right {
+			right: 0;
+			top: 59vw;
+			width: 11%;
+		}
+		&__left-image--low {
+			top: 30.25vw;
+		}
+		&__left-image--high {
+			top: 60vw;
+		}
+		&__left-image-size {
+			width: 17.1%;
+		}
+		&__left-image-rotate {
+			transform: rotateY(180deg);
+		}
+		& &__right-image-size {
+			width: 8.75%;
+			right: 0;
+		}
+		&__right-image {
+			position: absolute;
+			right: 0;
+			width: 17.1%;
+			top: 31.25%;
+
+				@include for-size(phone-only) {
+					display: none;
+				}
+				@include for-size(tablet-portrait-up) {
+					display: none;
+				}
+				@include for-size(tablet-landscape-up) {
+					display: block;
+				}
+		}
+		& &__right-image--left {
+			left: 0;
+			right: inherit;
+			top: 42vw;
+			width: 14.86%;
+		}
+		&__right-image--high {
+			top: 12vw;
+		}
+		&__right-image--low {
+			top: 67vw;
+		}
+		&__right-image-rotate {
+			transform: rotateY(180deg);
+		}
+}
+.ticket-section--padding {
+	padding-top: 0;
+	z-index: 99;
+}
+.ticket-section--background {
+	background-image: none;
+	background-color: #fff;
+}

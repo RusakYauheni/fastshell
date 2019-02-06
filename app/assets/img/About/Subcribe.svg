@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="975px" height="342px" viewBox="0 0 975 342" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Subcribe</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-2.12188799%" y1="46.8207687%" x2="100%" y2="46.8207675%" id="linearGradient-1">
+            <stop stop-color="#1258EE" offset="0%"></stop>
+            <stop stop-color="#049CFB" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="9.09494702e-13" width="975" height="342" rx="9"></rect>
+        <linearGradient x1="-22.2266135%" y1="50%" x2="116.829595%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#FF6268" offset="0%"></stop>
+            <stop stop-color="#FFA34E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="About" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-232.000000, -4958.000000)">
+        <g id="Group-38" transform="translate(0.000000, 4958.000000)">
+            <g id="Subcribe" transform="translate(232.000000, 0.000000)">
+                <mask id="mask-3" fill="white">
+                    <use xlink:href="#path-2"></use>
+                </mask>
+                <use id="Rectangle-6" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                <text id="Join-the-newsletter" mask="url(#mask-3)" font-family="Montserrat-Bold, Montserrat" font-size="35" font-weight="bold" line-spacing="45" letter-spacing="0.589999974" fill="#FFFFFF">
+                    <tspan x="168.6875" y="107">Join the newsletter to get updates </tspan>
+                    <tspan x="302.7125" y="152">on release roadmap</tspan>
+                    <tspan x="667.2875" y="152"> </tspan>
+                </text>
+                <path d="M-31.6718271,-56.3396643 L-84.7237072,37.9580966 C-99.0557848,63.4328362 -93.9833665,95.4197554 -72.4731522,115.2107 L286.819044,445.785365 L286.819044,-89 L-31.6718271,-56.3396643 Z" id="Path-4" fill-opacity="0.100000001" fill="#FFFFFF" mask="url(#mask-3)" transform="translate(97.000000, 178.392682) scale(-1, -1) translate(-97.000000, -178.392682) "></path>
+                <polygon id="Path-3" fill-opacity="0.100000001" fill="#FFFFFF" mask="url(#mask-3)" transform="translate(285.732397, 283.579213) rotate(-6.000000) translate(-285.732397, -283.579213) " points="276.860749 274.879683 294.604045 274.879683 290.604045 283.80959 294.604045 292.278743 276.860749 292.278743 280.860749 283.933558"></polygon>
+                <path d="M712.147217,-56.3396643 L659.095337,37.9580966 C644.763259,63.4328362 649.835677,95.4197554 671.345892,115.2107 L1030.63809,445.785365 L1030.63809,-89 L712.147217,-56.3396643 Z" id="Path" fill-opacity="0.100000001" fill="#FFFFFF" mask="url(#mask-3)"></path>
+                <polygon id="Path-3" fill-opacity="0.100000001" fill="#FFFFFF" mask="url(#mask-3)" transform="translate(652.762318, 56.234895) rotate(-2.000000) translate(-652.762318, -56.234895) " points="643.89067 47.5353645 661.633966 47.5353645 657.633966 56.465272 661.633966 64.9344252 643.89067 64.9344252 647.89067 56.5892394"></polygon>
+                <g id="Group-26" mask="url(#mask-3)">
+                    <g transform="translate(128.000000, 201.000000)">
+                        <g id="Group-23">
+                            <rect id="Rectangle-3-Copy-8" fill-opacity="0.28869452" fill="#FFFFFF" x="0" y="0" width="500" height="60" rx="30"></rect>
+                            <text id="Enter-you-email" font-family="Helvetica" font-size="18" font-weight="normal" fill="#FFFFFF">
+                                <tspan x="40" y="36">Enter you email</tspan>
+                            </text>
+                        </g>
+                        <g id="Btn" transform="translate(521.000000, 0.000000)">
+                            <rect id="Rectangle-3" fill="url(#linearGradient-4)" x="0" y="0" width="199" height="60" rx="30"></rect>
+                            <text id="SUBMIT" font-family="Helvetica-Bold, Helvetica" font-size="16" font-weight="bold" line-spacing="32" letter-spacing="0.5" fill="#FFFFFF">
+                                <tspan x="68.3359375" y="30">SUBMIT</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

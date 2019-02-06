@@ -1,0 +1,17 @@
+//----------------------------------*\
+// SCSS MIXINS
+//----------------------------------*/
+@import 'modules/_mixins.scss';
+
+// Config modules
+@import 'modules/_defaults.scss';
+@import 'modules/_normalize.scss';
+//----------------------------------*\
+// PARTIALS
+//----------------------------------*/
+@import 'partials/_successpage.scss';
+@import 'partials/_jatana_auto.scss';
+//----------------------------------*\
+// OBJECTS & MODULES
+//----------------------------------*/
+@import 'modules/_buttons.scss';

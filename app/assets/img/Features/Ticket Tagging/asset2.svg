@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="144px" height="309px" viewBox="0 0 144 309" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Path 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-2.12188799%" y1="46.8207687%" x2="100%" y2="46.8207675%" id="linearGradient-1">
+            <stop stop-color="#1258EE" offset="0%"></stop>
+            <stop stop-color="#049CFB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Features" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-1296.000000, -6262.000000)">
+        <path d="M1440.81082,6262.00031 C1440.60199,6262.17084 1399.93057,6295.88287 1318.79655,6363.13639 L1318.79655,6363.13639 C1292.00904,6385.34106 1288.29392,6425.05707 1310.49859,6451.84458 C1312.39614,6454.13376 1314.45337,6456.28574 1316.65485,6458.28437 L1440.81082,6571 C1441.0631,6364.79419 1441.0631,6261.79429 1440.81082,6262.00031 Z" id="Path-4" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>

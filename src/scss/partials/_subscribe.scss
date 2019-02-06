@@ -1,0 +1,114 @@
+.subscribe {
+	position: relative;
+	width: 100%;
+	height: 0;
+	@include for-size(phone-only) {
+		height: 178px;
+		margin-bottom: -22%;
+	}
+	&-container {
+		position: absolute;
+		left: 0;
+		right: 0;
+		z-index: 9999;
+		width: 67.70%;
+		height: 23.75vw;
+		background-image: url('../img/subscribe.png');
+		@include image-2x('../img/subscribe-2x.png');
+		background-size: contain;
+		background-repeat: no-repeat;
+		margin: 0 auto;
+		display: flex;
+		justify-content: space-around;
+		flex-direction: column;
+		align-items: center;
+		@include for-size(phone-only) {
+			background-size: cover; 
+			min-height: 95px;
+			height: 200px;
+			width: 100%;
+		}
+			h2 {
+				color: #ffffff;
+				font-size: 3.3em;
+				font-weight: 700;
+				letter-spacing: 1.18px;
+				line-height: 1.28em;
+				text-align: center;
+				padding-left: 13.5%;
+				padding-right: 13.5%;
+				margin-bottom: 4%;
+				@include for-size(phone-only) {
+					font-size: 2em;
+					margin: 0;
+					padding-left: 5%;
+					padding-right: 5%;
+					margin-bottom: 10px;
+					margin-top: 5.3%;
+				}
+				@include for-size(tablet-portrait-up) {
+					font-size: 1.8em;
+					padding-left: 5%;
+    				padding-right: 5%;
+				}
+				@include for-size(tablet-landscape-up) {
+					font-size: 2.5em;
+					padding-left: 13.5%;
+    				padding-right: 13.5%;
+				}
+				@include for-size(desktop-up) {
+					font-size: 3.3em;
+					padding-left: 16.5%;
+    				padding-right: 16.5%;
+				}
+			}
+			form {
+				width: 100%;
+				height: 30%;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+				margin-bottom: 5.3%;
+				@include for-size(phone-only) {
+					height: auto;
+					flex-direction: column;
+				}
+
+			}
+			input[type="text"] {
+				width: 51.3%;
+				border-radius: 60px;
+				border: none;
+				margin-right: 3%;
+				background-color: rgba(255, 255, 255, 0.29);
+				color: #ffffff;
+				font-size: 1.6em;
+				line-height: 3.5em;
+				font-weight: 400;
+				padding-left: 3%;
+				outline: none;
+				@include for-size(phone-only) {
+					width: 55%;
+					font-size: 1.25em;
+					line-height: 2.5em;
+					margin-right: 0;
+					margin-bottom: 10px;
+				}
+				@include for-size(tablet-portrait-up) {
+					
+				}
+			}
+			.submit-button {
+				display: inline;
+				margin: 0;
+				color: #ffffff;
+				font-weight: 700;
+				text-transform: uppercase;
+				letter-spacing: 1px;
+				outline: none;
+				@include for-size(phone-only) {
+					width: 55%;
+				}
+				}
+	}
+}

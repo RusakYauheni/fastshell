@@ -1,0 +1,86 @@
+html {
+	box-sizing: border-box;
+}
+p {
+	margin: 0;
+	padding: 0;
+}
+.sign-website {
+	width: 100%;
+	height: auto;
+	background-image: url('../img/SignWebsite/signweb-background.jpg');
+	@include image-2x('../img/SignWebsite/signweb-background-2x.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	padding-bottom: 3.85%;
+		&__logotype {
+			display: inline-block;
+			text-decoration: none;
+			color: #fff;
+			font-size: 2.1em;
+			font-weight: 700;
+			text-transform: uppercase;
+			margin-top: 5.3%;
+			margin-left: 11.5%;
+		}
+		&__main {
+			padding-top: 48px;
+			padding-bottom: 77px;
+			width: 40%;
+			height: 80%;
+			margin: 0 auto;
+			margin-top: 2.6%;
+			background-color: #fff;
+			border: 1px solid #979797;
+			border-radius: 6px;
+				@include for-size(phone-only) {
+					width: 95%;
+				}
+				@include for-size(tablet-portrait-up) {
+					width: 78%;
+				}
+				@include for-size(tablet-landscape-up) {
+					width: 40%;
+				}
+		}
+		&__form {
+			margin: 0 auto;
+			width: 75%;
+			display: flex;
+			flex-direction: column;
+			justify-content: space-between;
+				@include for-size(phone-only) {
+					width: 90%;
+				}
+				@include for-size(tablet-portrait-up) {
+					width: 75%;
+				}
+				p {
+					color: #7b7b7b;
+					font-size: 1.4em;
+					font-weight: 400;
+					text-align: center;
+					margin-top: 0.8%;
+					margin-bottom: 2.8%;
+				}
+		}
+		
+
+		&__check-container {
+			width: 100%;
+			height: 7.787%;
+			display: flex;
+			justify-content: space-between;
+			margin-bottom: 2%;
+		}
+		&__check {
+			
+		.not-valid, input[type="text"].not-valid, input[type="password"].not-valid {
+			/* border: 1px solid red; 
+			Style for invalid or not chosen. 
+			Delete comment to use this style. 
+			*/ 
+		}
+	}
+}

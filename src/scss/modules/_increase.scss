@@ -1,0 +1,104 @@
+.increase__container {
+	width: 100%;
+	height: auto;
+	background-image: linear-gradient(to top, #ffffff 0%, #e8f7ff 100%);
+	padding-top: 13.4%;
+	padding-bottom: 3%;
+}
+.increase__container--background {
+	background-image: none;
+}
+.increase__container--padding-top {
+	padding-top: 0;
+}
+.increase__container--margin-top {
+	margin-top: 0%;
+	padding-bottom: 16%;
+	@include for-size(phone-only) {
+		margin-top: 5%;
+	}
+	@include for-size(tablet-landscape-up) {
+		margin-top: 10%;
+	}
+}
+.increase {
+	position: relative;
+	width: 81.38%;
+	background-color: #fff;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	padding: 11.25% 6%;
+	z-index: 999;
+	max-width: 1125px;
+	@include for-size(phone-only) {
+		flex-direction: column;
+		align-items: center;
+		width: 90%;
+	}
+	@include for-size(big-desktop-up) {
+		padding-top: 3%;
+    	padding-bottom: 7%;
+    	max-height: 360px;
+	}
+	&__content {
+		max-width: 271px;
+		width: 100%;
+		height: 168px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: 50% 50%;
+		padding: 5%;
+		border-radius: 6px;
+		@include for-size(phone-only) {
+			margin-bottom: 20px;
+		}
+		@include for-size(tablet-portrait-up) {
+			
+		}
+		@include for-size(tablet-landscape-up) {
+			
+		}
+		p {
+			color: #fff;
+			font-size: 1.3125em;
+			font-weight: 600;
+			line-height: 1.38em;
+			letter-spacing: 0.32px;
+			text-align: center;
+			
+
+		}
+	}
+	a {
+		position: absolute;	
+		left: 0;
+		right: 0;
+		bottom: -6.5%;
+		@include for-size(phone-only) {
+			bottom: -4.5%;
+		}
+	}
+	&__first {
+		background-image: url('../img/Features/group-77.png');
+	}
+	&__second {
+		background-image: url('../img/Features/group-79.png');
+		margin-left: 4%;
+		margin-right: 4%;
+	}
+	&__third {
+		background-image: url('../img/Features/group-80.png');
+	}
+}
+.increase--shadow {
+	box-shadow: 0 59px 77px rgba(216, 227, 232, 0.51);
+}
+.increase--shadow-small {
+	@include for-size(phone-only) {
+		box-shadow: 0 14px 44px rgba(216,227,232,.51);	
+	}
+}

@@ -1,0 +1,35 @@
+.support-container {
+	position: relative;
+	width: 100%;
+	height: 0;
+}
+.support {
+	position: absolute;
+	margin-top: -6.9%;
+	width: 100%;
+	height: 400px;
+	perspective: 11vw;
+}
+#card {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  transform-style: preserve-3d;
+  transition: transform 1s;
+}
+#card figure {
+  margin: 0;
+  display: block;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 95px 0 0 95px;
+}
+#card .back {
+  background: #fff;
+  transform: rotateY( 180deg );
+}
+#card.flipped {
+  transform: rotateY(177deg);
+}

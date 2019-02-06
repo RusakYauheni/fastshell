@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="292px" height="292px" viewBox="0 0 292 292" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon Suggested</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="90" cy="90" r="90"></circle>
+        <filter x="-51.9%" y="-44.7%" width="203.9%" height="203.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="13" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="29" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.862038352   0 0 0 0 0.914734641   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Features" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-574.000000, -6217.000000)">
+        <g id="Group-34" transform="translate(235.000000, 6242.000000)">
+            <g id="title" transform="translate(18.000000, 0.000000)">
+                <g id="Icon-Suggested" transform="translate(359.000000, 0.000000)">
+                    <circle id="Oval" stroke="#FFFFFF" stroke-width="2.3328" opacity="0.0893342391" cx="108" cy="108" r="108"></circle>
+                    <circle id="Oval-Copy-5" stroke="#FFFFFF" stroke-width="1.944" opacity="0.264492754" cx="108" cy="108" r="90"></circle>
+                    <g id="Group-6" transform="translate(18.000000, 18.000000)">
+                        <g id="Oval-Copy-4">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Ticket-Tagging-" transform="translate(53.000000, 53.000000)" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.24">
+                            <ellipse id="Oval" stroke="#3C7EFB" fill-rule="nonzero" transform="translate(25.677318, 51.867505) rotate(-45.000000) translate(-25.677318, -51.867505) " cx="25.6773184" cy="51.8675047" rx="3.21060008" ry="3.2413434"></ellipse>
+                            <path d="M72.8645687,16.3039573 C73.4973195,17.7778902 73.8303189,19.3651386 73.8438018,20.9714918 L74.0043318,34.6661677 C74.0470401,37.8614292 72.8350158,40.9438117 70.6332017,43.239521 L44.4507581,70.2561182 C41.3396431,73.4784492 36.7133335,74.6898104 32.4431138,73.4002213" id="Shape" stroke="#3C7EFB"></path>
+                            <path d="M64.8862275,10.6640198 C65.5024491,12.1414073 65.8190452,13.7285237 65.8173016,15.3315543 L65.8173016,29.0262301 C65.8172895,32.2287778 64.558691,35.3004875 62.3177475,37.56717 L34.2571028,65.8965113 C32.0133499,68.1678286 28.9665516,69.4443536 25.7891451,69.4443536 C22.6117386,69.4443536 19.5649403,68.1678286 17.3211874,65.8965113 L3.75640209,52.2018355 C1.50662771,49.9365973 0.242210206,46.8606242 0.242210206,43.6527922 C0.242210206,40.4449603 1.50662771,37.3689871 3.75640209,35.103749 L31.8170468,6.77440771 C34.0622304,4.5120059 37.1048056,3.24135562 40.276978,3.2413434 L53.8417633,3.2413434 C55.412629,3.23744266 56.9683245,3.55156109 58.4168684,4.16512627" id="Shape" stroke="#D775FF"></path>
+                            <path d="M51.2090712,11.4419422 C50.0585551,11.6118822 48.9908587,12.145169 48.1590011,12.9653736 C45.9425444,15.2030543 45.9425445,18.8310514 48.1590013,21.068732 C50.3754581,23.3064126 53.9690445,23.3064126 56.1855013,21.0687321 C57.0353224,20.2372209 57.5980701,19.1520807 57.7908014,17.9732492" id="Shape" stroke="#3C7EFB"></path>
+                            <path d="M54.5802013,14.5860453 L69.0279016,0" id="Shape" stroke="#3C7EFB"></path>
+                            <polyline id="Shape" stroke="#3C7EFB" points="32.1060008 38.8961208 32.1060008 44.9088128 28.1730157 48.8794585"></polyline>
+                            <ellipse id="Oval" stroke="#3C7EFB" fill-rule="nonzero" transform="translate(20.875757, 40.509145) rotate(-45.000000) translate(-20.875757, -40.509145) " cx="20.8757571" cy="40.5091452" rx="3.21060008" ry="3.2413434"></ellipse>
+                            <polyline id="Shape" stroke="#3C7EFB" points="35.5413428 34.2609997 27.3222067 42.4778053 25.1068926 41.521609"></polyline>
+                            <rect id="Rectangle-path" stroke="#3C7EFB" transform="translate(25.673137, 43.755178) rotate(-45.000000) translate(-25.673137, -43.755178) " x="12.0521658" y="30.0037781" width="27.2419416" height="27.5027988" rx="5.3784"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

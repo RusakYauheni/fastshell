@@ -1,0 +1,99 @@
+.features-api {
+		position: relative;
+		width: 100%;
+		height: 0;
+		display: flex;
+		justify-content: center;
+	&__container {
+		width: 81.45%;
+		position: absolute;
+		background-color: #fff;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		box-shadow: 0 59px 77px rgba(187, 231, 255, 0.32);
+		border-radius: 6px;
+		padding-top: 6.5%;
+		padding-bottom: 6.5%;
+		min-height: 150px;
+		top: -50%;
+    	transform: translateY(-50%);
+		z-index: 9999;
+		@include for-size(phone-only) {
+			padding-top: 0;
+		}
+		@include for-size(tablet-portrait-up) {
+			width: 80%;
+		}
+		
+		@include for-size(tablet-landscape-up) {
+			width: 81.45%;
+		}
+	}
+	&__content {
+		width: 88.5%;
+		display: flex;
+		justify-content: space-between;
+		img {
+			width: 100%;
+		}
+		@include for-size(tablet-portrait-up) {
+			width: 98%;
+		}
+		@include for-size(tablet-landscape-up) {
+			width: 88.5%;
+		}
+		> div {
+			margin-right: 2%;
+		}
+	}	
+	h4 {
+	position: absolute;
+	z-index: 9999;
+    margin-top: 4.5%;
+	font-size: 1.25em;
+	font-weight: 400;
+	line-height: 2.9em;
+	letter-spacing: 0.1px;
+	color: #a7aab4;
+	@include for-size(phone-only) {
+		max-width: 240px;
+    	text-align: center;
+		margin-top: 30px;
+		line-height: 1.5em;
+	}
+	}
+}
+.support__logos {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			width: 100%;
+			margin-top: 1%;
+			@include for-size(tablet-portrait-up) {
+				margin-top: 5%;
+			}
+			img {
+				margin: 0;
+				@include for-size(phone-only) {
+					height: 60px;
+					margin: 0 auto;
+					max-width: 25%;
+					left: 0;
+					right: 0;
+				}
+			}
+	}
+	.support__logos--desktop {
+			@include for-size(phone-only) {
+					display: none;
+				}	
+	}
+	.support__logos--mobile {
+		@include for-size(phone-only) {
+				display: block;
+			}
+		@include for-size(tablet-portrait-up) {
+			display: none;
+		}
+}
